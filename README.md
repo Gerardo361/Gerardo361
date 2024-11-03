@@ -2,6 +2,7 @@
  
 ### Hi there 👋
 
+- Data Scientist with a passion for Data Visualization and Machine Learning
 - 🔭 Currently working on Data based projects<br/>
 
 
